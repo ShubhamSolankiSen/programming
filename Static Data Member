@@ -35,6 +35,7 @@ int main()
     shubham.setdata();
     shubham.getdata();
     Employee::getcount();
+    
     rahul.setdata();
     rahul.getdata();
     Employee::getcount();
