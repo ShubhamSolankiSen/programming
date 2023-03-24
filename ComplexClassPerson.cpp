@@ -22,8 +22,7 @@ void person ::display()
 cout<<" name :"<<name<<endl;
 cout<<" age :"<<age<<endl;
 }
-#include<iostream>
-using namespace std;
+
 
 int main(){
     person p;
