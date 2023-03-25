@@ -20,7 +20,7 @@ public:
 complex sumcomplex(complex o1, complex o2)
 {
     complex o3;
-    o3.getdata((o1.a + o2.a), (o2.b + o2.b));
+    o3.getdata((o1.a + o2.a), (o1.b + o2.b));
     return o3;
 }
 int main()
